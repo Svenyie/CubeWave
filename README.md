@@ -1,5 +1,6 @@
 # CubeWave
 My implementation of a cubewave animation in THREE.JS
+
 ![](https://media.giphy.com/media/fJ9abLI10rZo4TRKdE/giphy.gif)
 
 Inspiration
